@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.k{
+    color: white;
+}
+.navstyling {
+    border: 2px double #2D2D34;
+    background-color: #7f55d4;
+    border-radius: 25px;
+}
+
+.homestyling {
+    border: 2px double #07072c;
+    min-height: 330px;
+    border-radius: 25px;
+    width: 100%;
+    margin-top: 20px;
+}
+.githubstyle {
+    background-color: #F1E4E8;
+    border-radius: 20px;
+    border: 1px solid #10102e;
+}
+.githubstyle>a {
+    color: #2D2D34;
+    text-decoration: none;
+}
+
+.linkedinstyle {
+    background-color: #F1E4E8;
+    border: 1px solid #2D2D34;
+    border-radius: 20px;
+}
+
+.linkedinstyle>a {
+    text-decoration: none;
+    color: #2D2D34;
+}
+.footer {
+    margin-top: 25px;
+    background-color: #6d6875;
+    border: 2px double #2D2D34;
+    height: 130px;
+    border-radius: 25px;
+    color: white;
+}
+
+.homestyling>col-sm-5 col-12 text-center>img {
+    border-radius: 80px;
+    box-shadow: #653c48;
+}
